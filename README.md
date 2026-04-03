@@ -1,79 +1,73 @@
-# Privacy Policy for Fear & Greed Alarm
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Fear & Greed Alarm</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; padding: 30px; max-width: 900px; margin: auto; color: #333; }
+        h1 { border-bottom: 3px solid #2c3e50; padding-bottom: 10px; color: #2c3e50; }
+        h2 { color: #2980b9; margin-top: 40px; border-left: 5px solid #2980b9; padding-left: 10px; }
+        .lang-section { margin-bottom: 50px; padding: 20px; background: #f9f9f9; border-radius: 8px; }
+        hr { margin: 50px 0; border: 0; border-top: 2px dashed #ccc; }
+        .contact { font-weight: bold; color: #e74c3c; }
+    </style>
+</head>
+<body>
 
-Last updated: March 26, 2026
+    <div class="lang-section">
+        <h1>개인정보처리방침 (KR)</h1>
+        <p><strong>최종 업데이트: 2026년 3월 28일</strong></p>
 
-## Introduction
-Fear & Greed Alarm ("we", "our", or "us") operates the Fear & Greed Alarm mobile application.
+        <h2>1. 소개</h2>
+        <p>본 앱 "공포와 탐욕 경보"(이하 '당사')는 사용자의 개인정보를 소중히 다루며, 관련 법령을 준수합니다.</p>
 
-## Information We Collect
-We do not collect any personally identifiable information.
-The app only accesses publicly available Fear & Greed Index data.
+        <h2>2. 수집 정보 및 목적</h2>
+        <ul>
+            <li><strong>개인 식별 정보:</strong> 당사는 성명, 이메일 등 직접적인 개인 식별 정보를 수집하지 않습니다.</li>
+            <li><strong>결제 정보:</strong> 모든 구독 결제는 Google Play 시스템을 통해 안전하게 처리되며, 당사는 사용자의 금융 정보를 저장하지 않습니다.</li>
+            <li><strong>기기 식별자:</strong> 알림 서비스 제공을 위해 기기 ID(Android ID 등)가 활용될 수 있습니다.</li>
+        </ul>
 
-## Payment Information
-We use Google Play In-App Payments for subscription processing.
-We do not store your payment information directly.
-All payments are processed by Google Play.
+        <h2>3. 제3자 서비스</h2>
+        <p>서비스 제공을 위해 아래 외부 서비스를 이용합니다.</p>
+        <ul>
+            <li>Google Play Billing (결제 및 구독 관리)</li>
+            <li>Render.com (데이터 API 서버 호스팅)</li>
+        </ul>
 
-## Data Storage
-- Fear & Greed index data is cached locally on your device only.
-- Alert rules you create are stored locally on your device.
-- No data is transmitted to our servers except anonymous API requests.
+        <h2>4. 데이터 삭제 및 권리</h2>
+        <p>사용자는 언제든지 앱을 삭제하여 기기에 저장된 데이터를 파기할 수 있습니다. 데이터 삭제 관련 문의는 아래 이메일로 연락 주시기 바랍니다.</p>
+        <p class="contact">문의: pktop86@gmail.com</p>
+    </div>
 
-## Third-Party Services
-We use the following third-party services:
-- Google Play Billing (subscription payments)
-- Render.com (API server hosting)
+    <hr>
 
-## Children's Privacy
-Our app does not address anyone under the age of 13.
+    <div class="lang-section">
+        <h1>Privacy Policy (EN)</h1>
+        <p><strong>Last Updated: March 28, 2026</strong></p>
 
-## Changes to This Privacy Policy
-We may update our Privacy Policy from time to time.
-We will notify you of any changes by posting the new Privacy Policy on this page.
+        <h2>1. Introduction</h2>
+        <p>Fear & Greed Alarm (the "App") respects your privacy and is committed to protecting your personal data.</p>
 
-## Contact Us
-If you have any questions about this Privacy Policy, please contact us at:
-pktop86@gmail.com
+        <h2>2. Information Collection</h2>
+        <ul>
+            <li><strong>Personal Data:</strong> We do not collect personally identifiable information such as names or email addresses directly.</li>
+            <li><strong>Payment Information:</strong> All subscriptions are processed via Google Play Billing. We do not store or have access to your financial details.</li>
+            <li><strong>Device Identifiers:</strong> Anonymous device IDs may be used solely for providing push notification services.</li>
+        </ul>
 
+        <h2>3. Third-Party Services</h2>
+        <p>We use the following third-party services to operate the App:</p>
+        <ul>
+            <li>Google Play Billing (Subscription Management)</li>
+            <li>Render.com (API Server Hosting)</li>
+        </ul>
 
-# 공포와 탐욕 경보 개인정보처리방침
+        <h2>4. Data Deletion & Rights</h2>
+        <p>Users can delete their local data at any time by uninstalling the App. For any data-related inquiries, please contact us via the email below.</p>
+        <p class="contact">Contact: pktop86@gmail.com</p>
+    </div>
 
-최종 업데이트: 2026년 3월 26일
-
-## 소개
-공포와 탐욕 경보(이하 "당사")는 공포와 탐욕 경보 모바일 애플리케이션을 운영합니다.
-
-## 수집 정보
-당사는 개인 식별 정보를 수집하지 않습니다.
-이 앱은 공개적으로 이용 가능한 공포와 탐욕 지수 데이터에만 접근합니다.
-
-## 결제 정보
-당사는 Google Play 인앱 결제를 통해 구독을 처리합니다.
-
-당사는 사용자의 결제 정보를 직접 저장하지 않습니다.
-
-모든 결제는 Google Play를 통해 처리됩니다.
-
-## 데이터 저장
-- 공포와 탐욕 지수 데이터는 사용자의 기기에만 로컬로 캐시됩니다.
-
-- 사용자가 생성한 알림 규칙은 사용자의 기기에 로컬로 저장됩니다.
-
-- 익명 API 요청을 제외하고는 어떠한 데이터도 당사 서버로 전송되지 않습니다.
-
-## 제3자 서비스
-저희는 다음과 같은 제3자 서비스를 이용합니다.
-- Google Play 결제 (구독 결제)
-- Render.com (API 서버 호스팅)
-
-## 아동 개인정보 보호
-저희 앱은 만 13세 미만의 아동을 대상으로 하지 않습니다.
-
-## 개인정보 보호정책 변경
-저희는 개인정보 보호정책을 수시로 업데이트할 수 있습니다.
-
-변경 사항이 있을 경우 이 페이지에 새로운 개인정보 보호정책을 게시하여 알려드리겠습니다.
-
-## 문의하기
-개인정보 보호정책에 대한 질문이 있으시면 다음 주소로 문의해 주세요.
-pktop86@gmail.com
+</body>
+</html>
